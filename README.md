@@ -1,4 +1,4 @@
-<p1>competitive programing prepratory codes and questions  </p2>
-here in this i have saved my hand written solutions to hackkerrank problems and some codechef problems 
-<p>hacker rank 30 days of code challenge solutions</p>
+<h5> Here in this repo i have saved my preepratory codes for competitive programming </h5>
+<p> here you will find solutions to hacker rank C prepare solutions </p>
+<p1> And 30 days of code problems solutions </p1>
 
