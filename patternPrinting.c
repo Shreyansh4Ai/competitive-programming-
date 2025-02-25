@@ -20,13 +20,21 @@ int main()
             
             if(i==strt || i== end || j==strt || j==end)
            a[i][j]=n;
-              printf("%d",a[i][j]);
+              
         }
     }
     strt++;
     end--;
     n--;
     
+    }
+
+    for(int i=0 ; i<size ;i++){
+        for(int j=0; j<size ;j++){
+           printf("%d ",a[i][j]);
+
+        }
+        printf("\n");
     }
     
     return 0;
